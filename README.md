@@ -17,4 +17,4 @@ Início
     FIMSE
 Fim
 
-![CalculoMedia](https://user-images.githubusercontent.com/104536317/166562644-bb18cea3-eba8-452a-a8bd-dd4af5665cfa.jpg)
+![Calculomedia](https://user-images.githubusercontent.com/104536317/166584500-9f4aa66b-f047-41f0-bd41-c5840ff84c9a.png)
