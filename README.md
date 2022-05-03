@@ -1,4 +1,7 @@
-# CalculoMedia
+# Cálculo Mádia
+## Algoritmo e fluxograma referente ao exercício de cálculo de média!
+
+
 Início
 
      Receber nota ac1 
