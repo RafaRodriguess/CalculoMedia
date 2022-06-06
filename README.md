@@ -1,4 +1,4 @@
-# Cálculo Mádia
+# Cálculo Média
 ## Algoritmo e fluxograma referente ao exercício de cálculo de média!
 
 
